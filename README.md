@@ -6,3 +6,6 @@ How to use:
 2. Add all the files in your project directory. 
 3. Edit the User.h and add Username & Password.
 4. Run it and try it out!
+
+
+YOU CAN USE THIS AS A BASE TO WHATEVER YOU WANT.
