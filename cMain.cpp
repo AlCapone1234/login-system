@@ -34,8 +34,6 @@ void cMain::OnButtonClicked(wxCommandEvent& evt)
 	if (userinfo == user.user1 && passinfo == pass.pass1)
 	{
 		MessageBoxA(NULL, "You have sucessfully logged in!", "Logged in", MB_ICONASTERISK);
-		m_frame2 = new wxFrame(this, wxID_ANY, "Welcome!", wxPoint(30, 30), wxSize(400, 300));
-
 		evt.Skip();
 	}
 	else
